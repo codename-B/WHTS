@@ -1,0 +1,5 @@
+name: WHTS
+version: 1.0
+author: codename_B
+main: de.bananaco.gen.Gen
+load: startup
